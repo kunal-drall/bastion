@@ -45,5 +45,5 @@ Bastion Protocol is a decentralized insurance and hedging solution built on the 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/bastion-protocol.git
+git clone https://github.com/kunal-drall/bastion-protocol.git
 cd bastion-protocol
