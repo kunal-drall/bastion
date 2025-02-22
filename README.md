@@ -1,10 +1,10 @@
 # Bastion Protocol
 
-**Decentralized, AI-Driven Insurance on Aptos**
+**Decentralized, AI-Driven Insurance**
 
 ## Overview
 
-Bastion Protocol is a decentralized insurance and hedging solution built on the Aptos blockchain. It protects DeFi traders from extreme market volatility by automating risk assessments and claim processing using AI, Move smart contracts, and real-time market data from Merkle Trade.
+Bastion Protocol is a decentralized insurance and hedging solution built on the blockchain. It protects DeFi traders from extreme market volatility by automating risk assessments and claim processing using AI, Move smart contracts, and real-time market data from Merkle Trade.
 
 ## Key Features
 
@@ -15,7 +15,7 @@ Bastion Protocol is a decentralized insurance and hedging solution built on the 
 
 ## Technical Details
 
-- **Blockchain:** Aptos
+- **Blockchain:** 
 - **Smart Contracts:** Written in Move for policy management.
 - **SDKs Used:**
   - **Move Agent Kit:** For interacting with on-chain Move contracts.
